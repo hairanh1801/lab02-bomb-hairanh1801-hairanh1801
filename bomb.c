@@ -193,6 +193,6 @@ int main(int argc, char *argv[])
     phase_6(input);
     phase_defused();
 
-    printf("Congratulations — all phases defused!\n");
+    printf("Congratulations! You've defused the bomb!\n");
     return 0;
 }
