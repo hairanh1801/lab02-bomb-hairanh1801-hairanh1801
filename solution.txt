@@ -4,4 +4,3 @@ phase3-defused
 60 40
 level
 open sesame
-0
